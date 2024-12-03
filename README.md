@@ -22,10 +22,10 @@ Aristocrats Food Franchise Inc. (AFFI), which operates during home games of the 
 
 ## Data Description
 
-| **Variable Name** | **Model Role**      | **Measurement Level** | **Description**                                                                 |
-|--------------------|---------------------|------------------------|---------------------------------------------------------------------------------|
-| **Combo**          | Independent Variable | Discreet (Categorical) | Represents the food-beverage combination offered (Combo1, Combo2, Combo3, Combo4). |
-| **Temp**           | Independent Variable | Continuous             | Air temperature (in Fahrenheit) at the start of the game.                       |
+| **Variable Name**  | **Model Role**       | **Measurement Level**  | **Description**                                                                        |
+|--------------------|--------------------- |------------------------|----------------------------------------------------------------------------------------|
+| **Combo**          | Independent Variable | Discreet (Categorical) | Represents the food-beverage combination offered (Combo1, Combo2, Combo3, Combo4).     |
+| **Temp**           | Independent Variable | Continuous             | Air temperature (in Fahrenheit) at the start of the game.                              |
 | **NetProfit**      | Dependent Variable   | Continuous             | Net profit derived from the food-beverage combination sales (in thousands of dollars). |
 
 - Sample Size: 324 rows  
@@ -42,8 +42,6 @@ Aristocrats Food Franchise Inc. (AFFI), which operates during home games of the 
 - **Coefficient of partial determination (CPD)** - Indicates what portion of each independent variables can explain the 'dependent variable'.
 - **Unconditional P-value** - Indicates statistical significance in bivariate level (simple regression) using 95% confidence level.
 - **Conditional P-value** - Indicates statistical significance in multivariate level (multiple regression) using 95% confidence level.
-- **b-value in SLR** - represents the magnitude and direction of **'slope'** of independent variable in a simple regression model.
-- **b-value in MLR** - represents the magnitude and direction of **'slope'** of independent variables in a multiple regression model.
 - **Global F P-value** - indicates at least one of the predictor variables is statistical-significantly related with dependent variable in 95% confidence level.
   
 ### Columns Used as Inputs in the Final Model
@@ -70,4 +68,7 @@ The following columns were used as inputs (features) in the final model:
 - **'lsmeans':** 2.30.0
 - **'stats':** 4.3.2
 
-## Interpretation
+## Interpretation  
+### Bivariate level  
+
+### Multivariate level  
