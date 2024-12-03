@@ -68,7 +68,7 @@ The following columns were used as inputs (features) in the final model:
 - **'lsmeans':** 2.30.0
 - **'stats':** 4.3.2
 
-## Interpretation  
+## Quantitative Analysis and Interpretation  
 ### Bivariate level  
 - **The reason the average 'NetProfit' of at least one Combination differs from the average NetProfit of at least one other Combination:** Here, Combo1 is considered as the reference group. The global F p-value is 2.272e-11, allowing us to reject the null hypothesis that the means of all combinations are equal (mean of Combo1 = mean of Combo2 = mean of Combo3 = mean of Combo4). We accept the alternative hypothesis that not all means are identical. The pairs are: Combo 1 & 2, Combo 1 & 3, Combo 1 & 4, Combo 2 & 3, and Combo 3 & 4. This conclusion is based on the Scheffe test, which shows these combinations exhibit different grouping letters, indicating significant differences in means at the 95% confidence level.Thus, we can reasonably conclude that at least one population mean of a combination package differs from another.  
 - The proportion of variation in NetProfit predictable from Combo in the sample is 0.1513 and in the population is 0.1433.
