@@ -19,3 +19,11 @@ Aristocrats Food Franchise Inc. (AFFI), which operates during home games of the 
 **Intended Users:** Data Analysts, Data scientists, machine learning enthusiasts, educators.
 
 **Out-of-scope Uses:** The model is not intended for production use in any critical applications or real-time decision-making systems.
+
+## Data Description
+
+| **Variable Name** | **Model Role**      | **Measurement Level** | **Description**                                                                 |
+|--------------------|---------------------|------------------------|---------------------------------------------------------------------------------|
+| **Combo**          | Independent Variable | Discreet (Categorical) | Represents the food-beverage combination offered (Combo1, Combo2, Combo3, Combo4). |
+| **Temp**           | Independent Variable | Continuous             | Air temperature (in Fahrenheit) at the start of the game.                       |
+| **NetProfit**      | Dependent Variable   | Continuous             | Net profit derived from the food-beverage combination sales (in thousands of dollars). |
