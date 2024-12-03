@@ -11,18 +11,12 @@ Aristocrats Food Franchise Inc. (AFFI), which operates during home games of the 
 **Purpose:**
 This repository is designed to analyze factors influencing net profit for Aristocrats Food Franchise Inc. (AFFI), with a focus on understanding the interplay between independent variables and their impact on regression analysis. Key objectives include:
 
-**Exploring Confounding Effects:**  
-Assess whether or not temperature confounds the relationship between food-beverage combinations and net profit, both in bivariate and multivariate analyses.  
-**Examining Predictor Interplay:**  
-Investigate the unique and combined predictive powers of independent variables (Combo: discreet, Temperature: continuous) on the dependent variable (Net Profit).  
-**Model Evaluation:**  
-Evaluate the explanatory power of models using ANOVA, ANCOVA, and Eta-square, examining coefficients and statistical significance.  
-**Actionable Insights:**  
-Provide a framework for identifying and interpreting confounding hypotheses and differences in means across combinations.  
-**Statistical Application:**  
-Employ R for data analysis to demonstrate practical regression, ANOVA and ANCOVA techniques.  
-**Confidence Level:**  
-All results are reported with a precision of four decimal places, maintaining a significance level of 0.05 for statistical tests.  
+**Exploring Confounding Effects:** Assess whether or not temperature confounds the relationship between food-beverage combinations and net profit, both in bivariate and multivariate analyses.  
+**Examining Predictor Interplay:** Investigate the unique and combined predictive powers of independent variables (Combo: discreet, Temperature: continuous) on the dependent variable (Net Profit).  
+**Model Evaluation:** Evaluate the explanatory power of models using ANOVA, ANCOVA, and Eta-square, examining coefficients and statistical significance.  
+**Actionable Insights:** Provide a framework for identifying and interpreting confounding hypotheses and differences in means across combinations.  
+**Statistical Application:** Employ R for data analysis to demonstrate practical regression, ANOVA and ANCOVA techniques.  
+**Confidence Level:** All results are reported with a precision of four decimal places, maintaining a significance level of 0.05 for statistical tests.  
 
 **Intended Users:**
 - Data Analysts, Data scientists, machine learning enthusiasts, educators.
