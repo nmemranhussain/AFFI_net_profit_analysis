@@ -59,7 +59,7 @@ The following columns were used as inputs (features) in the final model:
 * **Multiple Regression Classifier**
 
 ### Software Used to Implement the Model
-- **Software:** R (with libraries such as **deplyr**, **heplots** and **agricolae**, **psych**, **lsmeans**, **stats** )
+- **Software:** R (with libraries such as **deplyr**, **heplots**, **agricolae**, **psych**, **lsmeans** and **stats** )
 
 ### Version of the Modeling Software: 
 - **R:** 4.3.2
