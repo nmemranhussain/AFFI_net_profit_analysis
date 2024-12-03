@@ -16,8 +16,6 @@ Aristocrats Food Franchise Inc. (AFFI), which operates during home games of the 
 - **Statistical Application:** Employ R for data analysis to demonstrate practical regression, ANOVA and ANCOVA techniques.  
 - **Confidence Level:** All results are reported with a precision of four decimal places, maintaining a significance level of 0.05 for statistical tests.  
 
-**Intended Users:**
-- Data Analysts, Data scientists, machine learning enthusiasts, educators.
+**Intended Users:** Data Analysts, Data scientists, machine learning enthusiasts, educators.
 
-**Out-of-scope Uses:**
-- The model is not intended for production use in any critical applications or real-time decision-making systems.
+**Out-of-scope Uses:** The model is not intended for production use in any critical applications or real-time decision-making systems.
