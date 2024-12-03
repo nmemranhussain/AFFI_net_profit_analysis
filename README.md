@@ -7,8 +7,8 @@ Aristocrats Food Franchise Inc. (AFFI), which operates during home games of the 
 **Date:** December 2024  
 **License:** [MIT License](LICENSE)
 
-## Intended Use
-- **Purpose:** This repository is designed to analyze factors influencing net profit for Aristocrats Food Franchise Inc. (AFFI), with a focus on understanding the interplay between independent variables and their impact on regression analysis. Key objectives include:
+## Intended Use  
+**Purpose:** This repository is designed to analyze factors influencing net profit for Aristocrats Food Franchise Inc. (AFFI), with a focus on understanding the interplay between independent variables and their impact on regression analysis. Key objectives include:
 - **Exploring Confounding Effects:** Assess whether or not temperature confounds the relationship between food-beverage combinations and net profit, both in bivariate and multivariate analyses.  
 - **Examining Predictor Interplay:** Investigate the unique and combined predictive powers of independent variables (Combo: discreet, Temperature: continuous) on the dependent variable (Net Profit).  
 - **Model Evaluation:** Evaluate the explanatory power of models using ANOVA, ANCOVA, and Eta-square, examining coefficients and statistical significance.  
